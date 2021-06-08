@@ -1,2 +1,2 @@
-# Basic-C-
-Basic codings of C++
+# Basic-C
+Basic codings of C
